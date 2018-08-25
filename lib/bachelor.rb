@@ -68,4 +68,3 @@ count = 0
       answer = (age/count).round
     return answer
     end
-  end
